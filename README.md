@@ -1,1 +1,1 @@
-Olá, este repositório contém práticas de aprendizado em Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns, onde o progresso será commitado a cada passo :)
+Olá, este repositório contém práticas de aprendizado em Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns, onde o progresso será acompanhado a cada passo :)
